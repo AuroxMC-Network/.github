@@ -1,7 +1,8 @@
-Prefix >> &f・&c&lLbGameMC &f&l>&7&l> &fNachricht, &cFehler, &a&lWichtiges in einer Nachricht.
+Prefix >> &c&lLbGame&4&lMC &8&l| &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
-Nachrichten >> &fNachricht, &cFehler, &a&lWichtiges in einer Nachricht.
+Nachrichten >> &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
+NoPermission >> &f・&c&lLbGameMC &f&l>&7&l> &7Dazu hast du &ckeine &fRechte!
 
 >> Beispiel, wenn man vom Server gekickt wird.
 
