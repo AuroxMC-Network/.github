@@ -1,9 +1,23 @@
-## Hi there 👋
+Prefix >> &c&lLbGame&4&lMC &8&l| &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
-**Here are some ideas to get you started:**
+Nachrichten >> &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+>> Beispiel, wenn man vom Server gekickt wird.
+
+Als Beispiel für z.B. das man die Falsche Version nutzt > >&8[&e!&8] &7Nachricht, &cWichtige Nachricht
+
+
+Für anderes wie z.B. ein Bann oder Kick
+&8-------------------------------
+&7Nachricht, &a&lWichtiges
+&8-------------------------------
+&7play.lbgamemc.de
+
+Für Brodcast oder Tipp-Nachrichten
+&8---------------------------------
+&7Nachricht, &aDer Befehl, &eWichtites
+&8---------------------------------
+
+WICHTIG >> Plugins sollen generell DEUTSCH sein und Englisch sowie Denglisch soll vermieden werden!
+Außerdem sollen die Nachrichten professionell gehalten werden, aber nicht zu professionell (Also auf Möchtegern Professionell)
