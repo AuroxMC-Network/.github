@@ -4,9 +4,9 @@ Nachrichten >> &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
 NoPermission >> &f・&c&lLbGameMC &f&l>&7&l> &7Dazu hast du &ckeine &fRechte!
 
->> Beispiel, wenn man vom Server gekickt wird.
+Beispiel, wenn man vom Server gekickt wird.
 
-Als Beispiel für z.B. das man die Falsche Version nutzt > >&8[&e!&8] &7Nachricht, &cWichtige Nachricht
+Als Beispiel für z.B. das man die Falsche Version nutzt > >&8[&e!&8] &fNachricht, &cWichtige Nachricht
 
 
 Für anderes wie z.B. ein Bann oder Kick
