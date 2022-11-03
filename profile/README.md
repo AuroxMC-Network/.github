@@ -1,6 +1,6 @@
-Prefix >> &c&lLbGame&4&lMC &8&l| &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
+Prefix >> &f・&c&lLbGameMC &f&l>&7&l> &fNachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
-Nachrichten >> &7Nachricht, &cFehler, &a&lWichtiges in einer Nachricht.
+Nachrichten >> &fNachricht, &cFehler, &a&lWichtiges in einer Nachricht.
 
 
 >> Beispiel, wenn man vom Server gekickt wird.
