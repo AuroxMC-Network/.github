@@ -10,4 +10,4 @@ This is the official LbGameMC.de Organisation. Here, our Developers will upload 
 ・ JoekawumYT
 
 
-Join our Discord-Server at https://lbgamemc.de/discord
+Join our Discord-Server at https://auroxmc.de/discord
