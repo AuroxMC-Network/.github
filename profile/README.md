@@ -7,6 +7,7 @@ This is the official LbGameMC.de Organisation. Here, our Developers will upload 
 👋 - Our Developer Team:
 ・ LetsVrime
 ・ MasterBen
+・ JoekawumYT
 
 
 Join our Discord-Server at https://lbgamemc.de/discord
