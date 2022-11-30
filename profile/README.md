@@ -7,7 +7,7 @@ This is the official LbGameMC.de Organisation. Here, our Developers will upload 
 👋 - Our Developer Team:
 ・ LetsVrime
 ・ MasterBen
-・ JoekawumYT
+・ joekawumYT
 
 
 Join our Discord-Server at https://auroxmc.de/discord
